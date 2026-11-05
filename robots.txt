@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://www.zimplasticpolyindustries.com/sitemap.xml
